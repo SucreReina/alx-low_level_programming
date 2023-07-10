@@ -1,5 +1,3 @@
-101-strtow.c
-
 #include <stdlib.h>
 #include "main.h"
 
@@ -29,6 +27,7 @@ int count_word(char *s)
 
 	return (w);
 }
+
 /**
  * **strtow - splits a string into words
  * @str: string to split
@@ -77,4 +76,3 @@ char **strtow(char *str)
 
 	return (matrix);
 }
-
