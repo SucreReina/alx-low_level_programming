@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- *  * free_listint2 - frees a linked list of type listint_t and sets the head pointer to NULL.
+ *  * free_listint2 - frees a linked list.
  *   * @head: pointer to the listint_t list to be freed
  */
 
